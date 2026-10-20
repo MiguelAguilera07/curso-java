@@ -1,0 +1,12 @@
+<%-- Final común de todas las páginas. --%>
+  <footer class="pie">
+    <div class="contenedor pie__contenido">
+      <div>
+        <p class="pie__titulo">OVA — Programación Orientada a Objetos en Java</p>
+        <p>Evidencia de aprendizaje · Aprendiz: <strong><c:out value="${initParam.aprendiz}"/></strong></p>
+      </div>
+      <p class="pie__tecnologias">SENA · Java · Jakarta Servlets · JSP · Apache Tomcat</p>
+    </div>
+  </footer>
+</body>
+</html>
